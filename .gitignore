@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*.json
+!data/.keep
+facility_report.txt
+*.csv
